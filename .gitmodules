@@ -1,0 +1,3 @@
+[submodule "pachamama"]
+	path = pachamama
+	url = https://github.com/leonard7e/pachamama.git
